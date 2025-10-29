@@ -1,11 +1,11 @@
-# ✅ System Health Check Automation Script
+#  System Health Check Automation Script
 
 This project contains a Linux shell script **healthcheck.sh** that monitors critical system resources and logs the data into **healthlog.txt** with timestamps.  
 It helps System Administrators and DevOps engineers quickly track system performance and service status.
 
 ---
 
-## 📌 Features
+##  Features
 
 This script collects and logs the following system information:
 
