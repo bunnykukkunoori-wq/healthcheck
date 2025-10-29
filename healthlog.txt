@@ -1,0 +1,225 @@
+==========================================
+ System Health Check - 2025-10-29 17:12:39
+==========================================
+System Date & Time:
+Wed, Oct 29, 2025  5:12:39 PM
+
+System Uptime:
+./healthcheck.sh: line 16: uptime: command not found
+
+CPU Load:
+./healthcheck.sh: line 20: uptime: command not found
+
+Memory Usage:
+./healthcheck.sh: line 24: free: command not found
+
+Disk Usage:
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  238G   62G  177G  26% /
+
+Top 5 Memory-Consuming Processes:
+ps: unknown option -- sort=-%mem
+Try `ps --help' for more information.
+
+Service Status:
+./healthcheck.sh: line 37: systemctl: command not found
+nginx is NOT running ❌
+./healthcheck.sh: line 37: systemctl: command not found
+ssh is NOT running ❌
+==========================================
+==========================================
+ System Health Check - 2025-10-29 17:14:55
+==========================================
+System Date & Time:
+Wed, Oct 29, 2025  5:14:55 PM
+
+System Uptime:
+./healthcheck.sh: line 16: uptime: command not found
+
+CPU Load:
+./healthcheck.sh: line 20: uptime: command not found
+
+Memory Usage:
+./healthcheck.sh: line 24: free: command not found
+
+Disk Usage:
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  238G   62G  177G  26% /
+
+Top 5 Memory-Consuming Processes:
+ps: unknown option -- sort=-%mem
+Try `ps --help' for more information.
+
+Service Status:
+./healthcheck.sh: line 37: systemctl: command not found
+nginx is NOT running ❌
+./healthcheck.sh: line 37: systemctl: command not found
+ssh is NOT running ❌
+==========================================
+==========================================
+ System Health Check - 2025-10-29 17:19:44
+==========================================
+System Date & Time:
+Wed, Oct 29, 2025  5:19:44 PM
+
+System Uptime:
+./healthcheck.sh: line 16: uptime: command not found
+
+CPU Load:
+./healthcheck.sh: line 20: uptime: command not found
+
+Memory Usage:
+./healthcheck.sh: line 24: free: command not found
+
+Disk Usage:
+Filesystem            Size  Used Avail Use% Mounted on
+C:/Program Files/Git  238G   62G  177G  26% /
+
+Top 5 Memory-Consuming Processes:
+ps: unknown option -- sort=-%mem
+Try `ps --help' for more information.
+
+Service Status:
+./healthcheck.sh: line 37: systemctl: command not found
+nginx is NOT running ❌
+./healthcheck.sh: line 37: systemctl: command not found
+ssh is NOT running ❌
+==========================================
+==========================================
+ System Health Check - 2025-10-29 11:52:16
+==========================================
+System Date & Time:
+Wed Oct 29 11:52:16 UTC 2025
+
+System Uptime:
+ 11:52:16 up  2:03,  1 user,  load average: 0.00, 0.00, 0.00
+
+CPU Load:
+ 0.00, 0.00, 0.00
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:            3832         493        3323           3         151        3338
+Swap:           1024           0        1024
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sdd       1007G  1.3G  955G   1% /
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G     0  1.9G   0% /dev/shm
+none            1.9G  508K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G   96K  1.9G   1% /run/user
+tmpfs           384M   20K  384M   1% /run/user/1000
+drivers         238G   62G  177G  26% /usr/lib/wsl/drivers
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+C:\             238G   62G  177G  26% /mnt/c
+
+Top 5 Memory-Consuming Processes:
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         231  0.0  0.5 107032 22144 ?        Ssl  09:49   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root          58  0.0  0.3  66820 15224 ?        S<s  09:49   0:02 /usr/lib/systemd/systemd-journald
+root         204  0.0  0.3 1756096 13312 ?       Ssl  09:49   0:01 /usr/libexec/wsl-pro-service -vv
+root           1  0.0  0.3  21684 12368 ?        Ss   09:49   0:03 /sbin/init
+systemd+     132  0.0  0.3  21456 12288 ?        Ss   09:49   0:00 /usr/lib/systemd/systemd-resolved
+
+Service Status:
+nginx is NOT running ❌
+ssh is NOT running ❌
+==========================================
+==========================================
+ System Health Check - 2025-10-29 11:54:04
+==========================================
+System Date & Time:
+Wed Oct 29 11:54:04 UTC 2025
+
+System Uptime:
+ 11:54:04 up  2:05,  1 user,  load average: 0.00, 0.00, 0.00
+
+CPU Load:
+ 0.00, 0.00, 0.00
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:            3832         507        3308           3         153        3324
+Swap:           1024           0        1024
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sdd       1007G  1.3G  955G   1% /
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G     0  1.9G   0% /dev/shm
+none            1.9G  508K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G   96K  1.9G   1% /run/user
+tmpfs           384M   20K  384M   1% /run/user/1000
+drivers         238G   62G  177G  26% /usr/lib/wsl/drivers
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+C:\             238G   62G  177G  26% /mnt/c
+
+Top 5 Memory-Consuming Processes:
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         231  0.0  0.5 107032 22144 ?        Ssl  09:49   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root          58  0.0  0.3  66820 15224 ?        S<s  09:49   0:02 /usr/lib/systemd/systemd-journald
+root         204  0.0  0.3 1756096 13312 ?       Ssl  09:49   0:01 /usr/libexec/wsl-pro-service -vv
+root           1  0.0  0.3  21684 12368 ?        Ss   09:49   0:03 /sbin/init
+systemd+     132  0.0  0.3  21456 12288 ?        Ss   09:49   0:00 /usr/lib/systemd/systemd-resolved
+
+Service Status:
+nginx is NOT running ❌
+ssh is NOT running ❌
+==========================================
+==========================================
+ System Health Check - 2025-10-29 11:54:34
+==========================================
+System Date & Time:
+Wed Oct 29 11:54:34 UTC 2025
+
+System Uptime:
+ 11:54:35 up  2:05,  1 user,  load average: 0.00, 0.00, 0.00
+
+CPU Load:
+ 0.00, 0.00, 0.00
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:            3832         508        3307           3         153        3323
+Swap:           1024           0        1024
+
+Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sdd       1007G  1.3G  955G   1% /
+rootfs          1.9G  2.7M  1.9G   1% /init
+none            1.9G     0  1.9G   0% /dev/shm
+none            1.9G  508K  1.9G   1% /run
+none            1.9G     0  1.9G   0% /run/lock
+none            1.9G   96K  1.9G   1% /run/user
+tmpfs           384M   20K  384M   1% /run/user/1000
+drivers         238G   62G  177G  26% /usr/lib/wsl/drivers
+none            1.9G     0  1.9G   0% /usr/lib/wsl/lib
+none            1.9G  4.0K  1.9G   1% /mnt/wsl
+none            1.9G   76K  1.9G   1% /mnt/wslg/versions.txt
+none            1.9G   76K  1.9G   1% /mnt/wslg/doc
+none            1.9G     0  1.9G   0% /usr/lib/modules/6.6.87.2-microsoft-standard-WSL2
+C:\             238G   62G  177G  26% /mnt/c
+
+Top 5 Memory-Consuming Processes:
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         231  0.0  0.5 107032 22144 ?        Ssl  09:49   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root          58  0.0  0.3  66820 15224 ?        S<s  09:49   0:02 /usr/lib/systemd/systemd-journald
+root         204  0.0  0.3 1756096 13312 ?       Ssl  09:49   0:01 /usr/libexec/wsl-pro-service -vv
+root           1  0.0  0.3  21684 12368 ?        Ss   09:49   0:03 /sbin/init
+systemd+     132  0.0  0.3  21456 12288 ?        Ss   09:49   0:00 /usr/lib/systemd/systemd-resolved
+
+Service Status:
+nginx is NOT running 
+ssh is NOT running 
+==========================================
