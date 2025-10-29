@@ -19,14 +19,14 @@ This script collects and logs the following system information:
 | Top 5 Memory-Consuming Processes | `ps aux --sort=-%mem | head -n 6` |
 | Service Status Check | `systemctl is-active` |
 
-✅ Automatically logs to `healthlog.txt`  
-✅ Adds timestamp for every report  
-✅ Service monitoring for **nginx** & **ssh**
+Automatically logs to `healthlog.txt`  
+Adds timestamp for every report  
+Service monitoring for **nginx** & **ssh**
 
 ---
 
 ## 🏗️ How to Run the Script
 
-### 1️⃣ Make script executable
+### 1️ Make script executable
 ```bash
 chmod +x healthcheck.sh
