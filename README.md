@@ -7,7 +7,6 @@ This project helps system administrators, DevOps engineers, and learners underst
 ⚙️ Features
 
 ✅ Displays and logs the following system information:
-
 Metric	Command Used	Description
 System Date & Time	date	Shows current system time
 System Uptime	uptime	Displays system uptime and load average
@@ -108,7 +107,9 @@ Then visit your repository:
 Author: Bunny Kukkunoori
 
 Email: bunnykukkunoori@gmail.com
+
 GitHub: github.com/bunnykukkunoori-wq
 
 Project: Healthcheck System Monitoring Script
+
 Version: 1.0
