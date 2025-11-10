@@ -19,6 +19,7 @@ Service Status	systemctl is-active	Checks if critical services (nginx, ssh) are 
 Logging	tee -a healthlog.txt	Saves all results with timestamps to a log file
 
 🧱 Project Structure
+
 healthcheck-project/
 │
 ├── healthcheck.sh      # Main Bash script
@@ -26,6 +27,7 @@ healthcheck-project/
 └── README.md           # Documentation file
 
 🖥️ Requirements
+
 Linux environment (Ubuntu, Debian, CentOS, etc.)
 bash shell
 Common utilities: uptime, free, df, ps, top, systemctl
@@ -95,8 +97,10 @@ alice     5987  0.0  1.5  98765 112345 pts/0  S+   10:30   0:00 top -b -n1
 --- Service Status ---
 nginx: running
 ssh: running
+
 Then visit your repository:
 👉 https://github.com/bunnykukkunoori-wq/healthcheck-project
+
 👨‍💻 Author
 Author: Bunny Kukkunoori
 Email: bunnykukkunoori@gmail.com
