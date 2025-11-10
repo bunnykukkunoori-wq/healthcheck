@@ -7,6 +7,7 @@ This project helps system administrators, DevOps engineers, and learners underst
 ⚙️ Features
 
 ✅ Displays and logs the following system information:
+
 Metric	Command Used	Description
 System Date & Time	date	Shows current system time
 System Uptime	uptime	Displays system uptime and load average
