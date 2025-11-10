@@ -21,9 +21,9 @@ Logging	tee -a healthlog.txt	Saves all results with timestamps to a log file
 🧱 Project Structure
 
 healthcheck-project/
-
 │
-├── healthcheck.sh      # Main Bash script
+├
+── healthcheck.sh      # Main Bash script
 
 ├── healthlog.txt       # Output log (auto-generated)
 
